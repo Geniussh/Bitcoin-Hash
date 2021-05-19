@@ -1,0 +1,60 @@
+Summary report for bitcoin_hash
+Wed Mar 10 21:41:23 2021
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Fitter Summary
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++---------------------------------------------------------------------------------+
+; Fitter Summary                                                                  ;
++-----------------------------------+---------------------------------------------+
+; Fitter Status                     ; Successful - Wed Mar 10 21:38:02 2021       ;
+; Quartus Prime Version             ; 18.1.0 Build 625 09/12/2018 SJ Lite Edition ;
+; Revision Name                     ; bitcoin_hash                                ;
+; Top-level Entity Name             ; bitcoin_hash                                ;
+; Family                            ; Arria II GX                                 ;
+; Device                            ; EP2AGX45DF29I5                              ;
+; Timing Models                     ; Final                                       ;
+; Logic utilization                 ; 77 %                                        ;
+;     Combinational ALUTs           ; 18,354 / 36,100 ( 51 % )                    ;
+;     Memory ALUTs                  ; 0 / 18,050 ( 0 % )                          ;
+;     Dedicated logic registers     ; 17,512 / 36,100 ( 49 % )                    ;
+; Total registers                   ; 17512                                       ;
+; Total pins                        ; 118 / 404 ( 29 % )                          ;
+; Total virtual pins                ; 0                                           ;
+; Total block memory bits           ; 0 / 2,939,904 ( 0 % )                       ;
+; DSP block 18-bit elements         ; 0 / 232 ( 0 % )                             ;
+; Total GXB Receiver Channel PCS    ; 0 / 8 ( 0 % )                               ;
+; Total GXB Receiver Channel PMA    ; 0 / 8 ( 0 % )                               ;
+; Total GXB Transmitter Channel PCS ; 0 / 8 ( 0 % )                               ;
+; Total GXB Transmitter Channel PMA ; 0 / 8 ( 0 % )                               ;
+; Total PLLs                        ; 0 / 4 ( 0 % )                               ;
+; Total DLLs                        ; 0 / 2 ( 0 % )                               ;
++-----------------------------------+---------------------------------------------+
+
+

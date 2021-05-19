@@ -1,0 +1,57 @@
+# Loading sv_std.std
+# Loading work.tb_bitcoin_hash
+# Loading work.bitcoin_hash
+# Loading work.simplified_sha256
+run -all
+# ---------------
+# 19 WORD HEADER:
+# ---------------
+# 01234567
+# 02468ace
+# 048d159c
+# 091a2b38
+# 12345670
+# 2468ace0
+# 48d159c0
+# 91a2b380
+# 23456701
+# 468ace02
+# 8d159c04
+# 1a2b3809
+# 34567012
+# 68ace024
+# d159c048
+# a2b38091
+# 45670123
+# 8ace0246
+# 159c048d
+# ***************************
+# 
+# ---------------------
+# COMPARE HASH RESULTS:
+# ---------------------
+# Correct H0[ 0] = 7106973a	Your H0[ 0] = 7106973a
+# Correct H0[ 1] = 6e66eea7	Your H0[ 1] = 6e66eea7
+# Correct H0[ 2] = fbef64dc	Your H0[ 2] = fbef64dc
+# Correct H0[ 3] = 0888a18c	Your H0[ 3] = 0888a18c
+# Correct H0[ 4] = 9642d5aa	Your H0[ 4] = 9642d5aa
+# Correct H0[ 5] = 2ab6af8b	Your H0[ 5] = 2ab6af8b
+# Correct H0[ 6] = 24259d8c	Your H0[ 6] = 24259d8c
+# Correct H0[ 7] = ffb9bcd9	Your H0[ 7] = ffb9bcd9
+# Correct H0[ 8] = 642138c9	Your H0[ 8] = 642138c9
+# Correct H0[ 9] = 054cafc7	Your H0[ 9] = 054cafc7
+# Correct H0[10] = 78251a17	Your H0[10] = 78251a17
+# Correct H0[11] = af8c8f22	Your H0[11] = af8c8f22
+# Correct H0[12] = d7a79ef8	Your H0[12] = d7a79ef8
+# Correct H0[13] = c7d10c84	Your H0[13] = c7d10c84
+# Correct H0[14] = 9537acfd	Your H0[14] = 9537acfd
+# Correct H0[15] = c1e4c72b	Your H0[15] = c1e4c72b
+# ***************************
+# 
+# CONGRATULATIONS! All your hash results are correct!
+# 
+# Total number of cycles:         221
+# 
+# 
+# ***************************
+# 

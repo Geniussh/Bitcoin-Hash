@@ -7,4 +7,4 @@ In the case of Bitcoin, a _Message_ is inputted, and a hash function, known as t
 
 Both were efficiently implemented and gave a charming cycle number.
 
-More details can be found in the [Report](Project_Report.pdf).
+More details can be found in the [Report](Misc/Project_Report.pdf).

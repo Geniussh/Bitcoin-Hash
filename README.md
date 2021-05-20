@@ -1,4 +1,4 @@
-# Bitcoin-Hash
+# SHA-256 Bitcoin-Hash
 This project implements both __SHA-256__ and __Bitcoin Hashing__. 
 
 [SHA-256](https://en.wikipedia.org/wiki/SHA-2) is a Secure Hash Algorithm that uses a hash function computed with eight 32-bit words. It is a cryptographic method of converting input data of any kind and size, into a string of fixed number of characters. 

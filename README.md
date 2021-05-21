@@ -5,6 +5,4 @@ This project implements both __SHA-256__ and __Bitcoin Hashing__.
 
 In the case of Bitcoin, a _Message_ is inputted, and a hash function, known as the SHA-256 above, gives an output known as a _Hash_ or _Message Digest_. In particular, I implemented Bitcoin hashing using parallel computing. 
 
-Both were efficiently implemented and gave a charming cycle number.
-
-More details can be found in the [Report](Misc/Project_Report.pdf).
+Both were efficiently implemented and gave a charming cycle number. More details can be found in the [Report](Misc/Project_Report.pdf).
